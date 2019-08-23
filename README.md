@@ -360,4 +360,4 @@ E-mail me at pyaes@ricmoo.com with any questions, suggestions, comments, et cete
 
 Umm... Ok? :-)
 
-_Bitcoin_  - `18UDs4qV1shu2CgTS2tKojhCtM69kpnWg9`
+_Bitcoin_  - `18UDs4qV1shu2CgTS2tKojhCtM69kpnWg9` 
